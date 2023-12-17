@@ -27,3 +27,5 @@ body {
 .hamburger-active > span:nth-child(2) {
   @apply scale-0;
 }
+
+/* animated */
